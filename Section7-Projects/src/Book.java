@@ -26,4 +26,12 @@ public class Book {
     public int getNumPages(){
         return numPages;
     }
+
+    public void printBookDetails(){
+        System.out.print(this.getTitle());
+        System.out.print(" by " + this.getAuthor());
+        System.out.print(" has " + this.getNumPages() + " pages");
+        System.out.println(" and its genre is " + this.getGenre());
+        System.out.println();
+    }
 }
