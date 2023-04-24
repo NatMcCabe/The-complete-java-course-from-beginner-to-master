@@ -1,0 +1,10 @@
+Cirlce1 | Radius: 12.0 | Circumference: 75.40 | Area: 452.39
+Cirlce2 | Radius: 7.5 | Circumference: 47.12 | Area: 176.71
+Cirlce3 | Radius: 25.0 | Circumference: 157.08 | Area: 1963.50
+Cirlce4 | Radius: 16.4 | Circumference: 103.04 | Area: 844.96
+Cirlce5 | Radius: 32.8 | Circumference: 205.77 | Area: 3369.55
+Cirlce6 | Radius: 14.0 | Circumference: 87.96 | Area: 615.75
+Cirlce7 | Radius: 111.0 | Circumference: 697.43 | Area: 38707.56
+Cirlce8 | Radius: 405.0 | Circumference: 2544.69 | Area: 515299.74
+Cirlce9 | Radius: 19.2 | Circumference: 120.64 | Area: 1158.12
+Cirlce10 | Radius: 256.0 | Circumference: 1608.50 | Area: 205887.42
