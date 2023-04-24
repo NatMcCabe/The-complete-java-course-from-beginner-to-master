@@ -1,0 +1,14 @@
+public class Main {
+    public static void main(String[] args) {
+        int count = 0;
+
+        while(count < 10){
+            if(count == 5){
+                count++;
+                break;
+            }
+            System.out.print(count + "\t");
+            count++;
+        }
+    }
+}

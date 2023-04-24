@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Continue and Break Statements/Continue and Break Statements.iml" filepath="$PROJECT_DIR$/Continue and Break Statements/Continue and Break Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CountUpTo/CountUpTo.iml" filepath="$PROJECT_DIR$/CountUpTo/CountUpTo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsPart1/MethodsPart1.iml" filepath="$PROJECT_DIR$/MethodsPart1/MethodsPart1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsPart2/MethodsPart2.iml" filepath="$PROJECT_DIR$/MethodsPart2/MethodsPart2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proj3_1_LearningPackages/Proj3_1_LearningPackages.iml" filepath="$PROJECT_DIR$/Proj3_1_LearningPackages/Proj3_1_LearningPackages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proj3_3_GuessTheNumber/Proj3_3_GuessTheNumber.iml" filepath="$PROJECT_DIR$/Proj3_3_GuessTheNumber/Proj3_3_GuessTheNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proj4_1_Arrays/Proj4_1_Arrays.iml" filepath="$PROJECT_DIR$/Proj4_1_Arrays/Proj4_1_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proj4_2_ArrayLists/Proj4_2_ArrayLists.iml" filepath="$PROJECT_DIR$/Proj4_2_ArrayLists/Proj4_2_ArrayLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proj6_1_SumOfElements/Proj6_1_SumOfElements.iml" filepath="$PROJECT_DIR$/Proj6_1_SumOfElements/Proj6_1_SumOfElements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proj6_2_TicTacToe/Proj6_2_TicTacToe.iml" filepath="$PROJECT_DIR$/Proj6_2_TicTacToe/Proj6_2_TicTacToe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project3_2_DivisibleByThree/Project3_2_DivisibleByThree.iml" filepath="$PROJECT_DIR$/Project3_2_DivisibleByThree/Project3_2_DivisibleByThree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Random Numbers/Random Numbers.iml" filepath="$PROJECT_DIR$/Random Numbers/Random Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Repition Control Schemes/Repition Control Schemes.iml" filepath="$PROJECT_DIR$/Repition Control Schemes/Repition Control Schemes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section7-Projects/Section7-Projects.iml" filepath="$PROJECT_DIR$/Section7-Projects/Section7-Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/The-complete-java-course-from-beginner-to-master.iml" filepath="$PROJECT_DIR$/.idea/The-complete-java-course-from-beginner-to-master.iml" />
+    </modules>
+  </component>
+</project>
