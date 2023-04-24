@@ -1,6 +1,6 @@
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.PrintWriter;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -16,8 +16,6 @@ public class Proj8_1_RectangleFile {
                 String tempLine;
                 double width;
                 double length;
-                double area;
-                double perimeter;
                 int counter = 0;
 
                 Rectangle tempRectangle;
@@ -28,8 +26,8 @@ public class Proj8_1_RectangleFile {
                     tempLine = rectangleDataFile.nextLine();
                     String[] splitString = tempLine.split("\\s+");
 
-                    length = Double.valueOf(splitString[0]);
-                    width = Double.valueOf(splitString[1]);
+                    length = Double.parseDouble(splitString[0]);
+                    width = Double.parseDouble(splitString[1]);
 
                     tempRectangle = new Rectangle(length, width);
 
